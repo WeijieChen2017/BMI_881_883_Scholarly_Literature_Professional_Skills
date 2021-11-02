@@ -10,7 +10,7 @@
 
 ### Answer
 
-1. This is a test answer
+1. As we know, PPV = \frac{sensitivity x prevalence}{sensitivity x prevalence + (1-specificity) x (1-prevalence)}
 
 2. This is a test answer
 
