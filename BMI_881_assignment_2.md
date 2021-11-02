@@ -6,6 +6,7 @@
 ```math
 $PPV = \frac{sensitivity x prevalence}{sensitivity x prevalence + (1-specificity) x (1-prevalence)}$
 ```
+And we have $`a^2+b^2=c^2`$
 
 #### 2. Suppose sensitivity = specificity. What would they have to be to achieve positive predictive value = 50% when prevalence is 9/100,000?
 
